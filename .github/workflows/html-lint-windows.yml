@@ -19,3 +19,6 @@ jobs:
 
       - name: Periksa HTML
         run: htmlhint "**/*.html"
+
+      - name: Anla push baru
+        run: htmlhint "**/*.html"
